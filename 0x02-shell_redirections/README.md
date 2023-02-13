@@ -12,4 +12,8 @@
 
 3. What about 2?
 
-3-twofiles: Bash script that displays the content of etc/passwd and /etc/hosts
+3-twofiles: Bash script that displays the content of etc/passwd and /etc/hosts.
+
+4. Last lines of a file
+
+4-lastlines: Bash script that displays the last 10 lines of /etc/passwd
