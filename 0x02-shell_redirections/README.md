@@ -17,3 +17,7 @@
 4. Last lines of a file
 
 4-lastlines: Bash script that displays the last 10 lines of /etc/passwd
+
+5. I'd prefer the first ones actually
+
+5-firstlines: Bash script that displays the first 10 lines of /etc/passwd.
