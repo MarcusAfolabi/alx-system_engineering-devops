@@ -49,3 +49,7 @@
 12. What’s new
 
 12-newest file: Bash script that displays the 10 newest files in the current directory, one file per line, sorted from newest to oldest
+
+13. Being unique is better than being perfect
+
+13-unique: Bash script that takes a list of words as input and only prints words that appear exactly once, one word per line, sorted
