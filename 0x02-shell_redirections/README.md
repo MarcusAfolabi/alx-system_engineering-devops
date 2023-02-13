@@ -85,3 +85,7 @@
 21. esreveR
 
 21-reverse: Bash script that reverses its input.
+
+22. DJ Cut Killer
+
+22-users_and_homes: Bash script that displays all users and their home directories, sorted by users, based on the /etc/passwd file.
