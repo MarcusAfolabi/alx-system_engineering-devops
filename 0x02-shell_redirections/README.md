@@ -88,4 +88,14 @@
 
 22. DJ Cut Killer
 
-22-users_and_homes: Bash script that displays all users and their home directories, sorted by users, based on the /etc/passwd file.
+22-users and homes: Bash script that displays all users and their home directories, sorted by users, based on the /etc/passwd file.
+
+23. Empty casks make the most noise
+
+100-empty casks: Bash script that finds all empty files and directories in the current directory and all sub-directories as follows:
+
+Only the names of the files and directories are displayed.
+
+Hidden files included.
+
+One file name per line.
