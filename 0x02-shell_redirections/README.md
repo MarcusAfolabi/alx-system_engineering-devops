@@ -45,3 +45,7 @@
 11. Don't just count your directories, make your directories count
 
 11-directories: Bash script that counts the number of directories and sub-directories in the current directory, not including the current and parent directories but counting hidden ones.
+
+12. What’s new
+
+12-newest file: Bash script that displays the 10 newest files in the current directory, one file per line, sorted from newest to oldest
