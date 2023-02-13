@@ -28,7 +28,7 @@
 
 7. It is a good file that cuts iron without making a noise
 
-7-file: Bash script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Bes
+7-file: Bash script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
 
 8. Save current state of directory
 
@@ -36,4 +36,8 @@
 
 9. Duplicate last line
 
-9-duplicate_last_line: Bash script that duplicates the last line of the file iacta
+9-duplicate last line: Bash script that duplicates the last line of the file iacta
+
+10. No more javascript
+
+10-no more js: Bash script that deletes all the regular files (not directories) with a .js extension that are present in the current directory and all its subfolders.
