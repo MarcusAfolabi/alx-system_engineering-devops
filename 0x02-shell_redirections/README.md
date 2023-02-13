@@ -66,3 +66,6 @@
 
 16-whatsnext: Bash script that displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.
 
+17. I hate bins
+
+17-hidethisword: Bash script that displays all lines in the file /etc/passwd that do not contain the pattern "bin"
