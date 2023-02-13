@@ -99,3 +99,17 @@ Only the names of the files and directories are displayed.
 Hidden files included.
 
 One file name per line.
+
+24. A gif is worth ten thousand words
+
+101-gifs: Bash script that lists all the files with a .gif extension in the current directory and all its sub-directories as follows:
+
+Hidden files included.
+
+Only regular files (not directories) listed.
+
+File names displayed without extensions.
+
+Files sorted by byte values, but case insensitive.
+
+One file name per line.
