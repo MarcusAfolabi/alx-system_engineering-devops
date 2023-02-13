@@ -117,3 +117,9 @@ One file name per line.
 25. Acrostic
 
 102-acrostic: Bash script that decodes acrostics that use the first letter of each line.
+
+26. The biggest fan
+
+103-the biggest fan: Bash script that parses web server logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+
+Ordered by number of requests, with most active hosts or IP's at the top.
