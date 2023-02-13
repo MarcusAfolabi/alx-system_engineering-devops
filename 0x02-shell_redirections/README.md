@@ -73,3 +73,7 @@
 18. Letters only please
 
 18-letteronly: Bash script that displays all lines of the file /etc/ssh/sshd_config starting with a letter, including capital letters.
+
+19. A to Z
+
+19-AZ: Bash script that replaces all characters A and c from input to Z and e respectively.
