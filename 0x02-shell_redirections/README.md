@@ -112,4 +112,8 @@ File names displayed without extensions.
 
 Files sorted by byte values, but case insensitive.
 
-One file name per line
+One file name per line.
+
+25. Acrostic
+
+102-acrostic: Bash script that decodes acrostics that use the first letter of each line.
