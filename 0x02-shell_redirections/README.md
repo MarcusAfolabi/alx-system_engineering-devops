@@ -41,3 +41,7 @@
 10. No more javascript
 
 10-no more js: Bash script that deletes all the regular files (not directories) with a .js extension that are present in the current directory and all its subfolders.
+
+11. Don't just count your directories, make your directories count
+
+11-directories: Bash script that counts the number of directories and sub-directories in the current directory, not including the current and parent directories but counting hidden ones.
