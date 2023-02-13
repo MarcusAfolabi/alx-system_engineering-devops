@@ -21,3 +21,7 @@
 5. I'd prefer the first ones actually
 
 5-firstlines: Bash script that displays the first 10 lines of /etc/passwd.
+
+6. Line #2
+
+6-third line: Bash script that displays the third line of the file iacta
