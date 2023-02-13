@@ -69,3 +69,7 @@
 17. I hate bins
 
 17-hidethisword: Bash script that displays all lines in the file /etc/passwd that do not contain the pattern "bin"
+
+18. Letters only please
+
+18-letteronly: Bash script that displays all lines of the file /etc/ssh/sshd_config starting with a letter, including capital letters.
