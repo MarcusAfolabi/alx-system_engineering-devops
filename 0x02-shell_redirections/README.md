@@ -81,3 +81,7 @@
 20. Without C, you would live in hiago
 
 20-hiago: Bash script that removes all letters c and C from input.
+
+21. esreveR
+
+21-reverse: Bash script that reverses its input.
