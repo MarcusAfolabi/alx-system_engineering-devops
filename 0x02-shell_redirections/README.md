@@ -53,3 +53,7 @@
 13. Being unique is better than being perfect
 
 13-unique: Bash script that takes a list of words as input and only prints words that appear exactly once, one word per line, sorted
+
+14. It must be in that file
+
+14-findthatword: Bash script that displays lines containing the pattern "root" from the file /etc/passwd
