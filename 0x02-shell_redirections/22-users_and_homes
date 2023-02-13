@@ -1,6 +1,2 @@
 #!/bin/bash
-function display_info() {  awk -F: '{
-
-	    printf "Username: %-20s Home directory: %s\n", $1, $6
-
-	      }' /etc/passwd | sort
+sort /etc/passwd | cut -d : -f 1,6
