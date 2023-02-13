@@ -57,3 +57,7 @@
 14. It must be in that file
 
 14-findthatword: Bash script that displays lines containing the pattern "root" from the file /etc/passwd
+
+15. Count that word
+
+15-countthatword: Bash script that displays the number of lines containing the pattern "bin" in the file /etc/passwd.
