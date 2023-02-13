@@ -61,3 +61,8 @@
 15. Count that word
 
 15-countthatword: Bash script that displays the number of lines containing the pattern "bin" in the file /etc/passwd.
+
+16. What's next?
+
+16-whatsnext: Bash script that displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.
+
