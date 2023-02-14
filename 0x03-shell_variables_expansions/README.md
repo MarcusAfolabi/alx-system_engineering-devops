@@ -37,3 +37,12 @@ Tasks
 
 11. There are 10 types of people in the world -- Those who understand binary, and those who don't
 11-binary_to_decimal: Bash script that converts a number in base 2 stored in the environment variable
+
+12. Combination
+12-combinations: Bash script that prints all possible combinations of two letters, except oo, as follows:
+
+Letters are lower cases, from a to z.
+
+One combination per line.
+
+Alpha-ordered.
