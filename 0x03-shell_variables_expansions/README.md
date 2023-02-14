@@ -46,3 +46,6 @@ Letters are lower cases, from a to z.
 One combination per line.
 
 Alpha-ordered.
+
+13. Floats
+13-print_float: Bash script that prints a number stored in the environment variable NUM with two decimal places
