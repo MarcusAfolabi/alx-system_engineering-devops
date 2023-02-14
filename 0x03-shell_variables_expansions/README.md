@@ -15,3 +15,6 @@ Tasks
 
 4. Global variables
 4-global_variables: Bash script that lists environment variables.
+
+5. Local variable
+5-local_variables: Bash script that lists all local variables, environment variables and functions.
