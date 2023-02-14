@@ -12,3 +12,6 @@ Tasks
 
 3. If the path be beautiful, let us not ask where it leads
 3-paths: Bash script that counts the number of directories in the PATH
+
+4. Global variables
+4-global_variables: Bash script that lists environment variables.
