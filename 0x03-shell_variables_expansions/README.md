@@ -6,3 +6,6 @@ Tasks
 
 1. Hello you
 1-hello_you: Bash script that prints hello user, where user is the current Linux user.
+
+2. The path to success is to take massive, determined action
+2-path: Bash script that adds /action to the PATH
