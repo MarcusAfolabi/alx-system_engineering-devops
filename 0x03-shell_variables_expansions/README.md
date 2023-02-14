@@ -27,3 +27,6 @@ Tasks
 
 8. Every addition to true knowledge is an addition to human power
 8-true_knowledge: Bash script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line. 
+
+9. Divide and rule
+9-divide_and_rule: Bash script that prints the result of POWER divided by DIVIDE
