@@ -23,4 +23,7 @@ Tasks
 6-create_local_variable: Bash script that creates a new local variable
 
 7. Global variable
-7-create_global_variable: Bash script that creates a new global variable named 
+7-create_global_variable: Bash script that creates a new global variable named
+
+8. Every addition to true knowledge is an addition to human power
+8-true_knowledge: Bash script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line. 
