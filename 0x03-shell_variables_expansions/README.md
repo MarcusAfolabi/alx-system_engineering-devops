@@ -20,4 +20,7 @@ Tasks
 5-local_variables: Bash script that lists all local variables, environment variables and functions.
 
 6. Local variable
-6-create_local_variable: Bash script that creates a new local variable 
+6-create_local_variable: Bash script that creates a new local variable
+
+7. Global variable
+7-create_global_variable: Bash script that creates a new global variable named 
