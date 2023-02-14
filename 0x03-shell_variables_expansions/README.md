@@ -34,3 +34,6 @@ Tasks
 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
 
 10-love_exponent_breath: Bash script that displays the result of BREATH to the power of LOVE. BREATH and LOVE are environment variables.
+
+11. There are 10 types of people in the world -- Those who understand binary, and those who don't
+11-binary_to_decimal: Bash script that converts a number in base 2 stored in the environment variable
