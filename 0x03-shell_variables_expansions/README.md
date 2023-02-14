@@ -30,3 +30,7 @@ Tasks
 
 9. Divide and rule
 9-divide_and_rule: Bash script that prints the result of POWER divided by DIVIDE
+
+10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+
+10-love_exponent_breath: Bash script that displays the result of BREATH to the power of LOVE. BREATH and LOVE are environment variables.
