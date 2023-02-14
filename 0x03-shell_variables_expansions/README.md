@@ -54,3 +54,8 @@ Alpha-ordered.
 14-decimal_to_hexadecimal: Bash script that converts a number in base 10 stored in the environment variable DECIMAL to base 16.
 
 15. Everyone is a proponent of strong encryption
+16. The eggs of the brood need to be an odd number
+
+
+
+
